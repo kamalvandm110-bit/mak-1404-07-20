@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://kamalvandm110-bit.github.io/mak-1404-07-20/sitemap.xml
-google-site-verification=uz5oz1AmMXxugKmcpJAv3m0q4IbGeuhaCSsOR50oBzw
+https://kamalvandm110-bit.github.io/mak-1404-07-20/robots.txt
