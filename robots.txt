@@ -1,1 +1,3 @@
-https://kamalvandm110-bit.github.io/mak-1404-07-20/robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://kamalvandm110-bit.github.io/mak-1404-07-20/sitemap.xml
