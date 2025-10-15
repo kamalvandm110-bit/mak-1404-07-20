@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
+Disallow:
+
 Sitemap: https://kamalvandm110-bit.github.io/mak-1404-07-20/sitemap.xml
