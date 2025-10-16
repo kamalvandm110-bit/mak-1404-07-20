@@ -1,0 +1,13 @@
+# robots.txt for https://kamalvandm110-bit.github.io/
+# نسخه فعلی - sitemap در پوشه mak-1404-07-20 قرار دارد
+
+User-agent: *
+# اجازه دسترسی کامل به صفحات
+Disallow:
+
+# معرفی نقشه سایت (Sitemap)
+Sitemap: https://kamalvandm110-bit.github.io/mak-1404-07-20/sitemap.xml
+
+# توضیحات:
+# - این تنظیم به موتورهای جست‌وجو می‌گوید نقشه‌ی سایت در پوشه mak-1404-07-20 است.
+# - اگر در آینده نقشه را جابه‌جا کردی، فقط آدرس خط Sitemap را تغییر بده.
